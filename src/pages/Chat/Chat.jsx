@@ -261,7 +261,7 @@ export default function Chat() {
   };
 
   const translateMsgFunc = async (messages) => {
-    const apiUrl = " https://translate-api-server.onrender.com";
+    const apiUrl = " https://translate-api-server.onrender.com/translate";
     const translationResults = [];
 
     try {
