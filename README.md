@@ -3,9 +3,9 @@ Multi Lingual Chat using React Js, Firebase-v9 and Material UI with Google & Git
 
 Live [demo](https://euphonious-rabanadas-f7e242.netlify.app/)
 
-![Login](https://postimg.cc/HJ19PX4W)
-![Select Language](https://postimg.cc/Ny8khFp6))
-![Chat](https://postimg.cc/VrYBzwV3)
+![Login](https://ibb.co/HFTyHj2)
+![Select Language](https://ibb.co/Fm6WzkC)
+![Chat](https://ibb.co/rvjVFdp)
 
 Quick Start:
 ------------
