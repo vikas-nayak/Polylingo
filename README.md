@@ -1,4 +1,4 @@
-Multi Lingual Chat using React Js, Firebase-v9 and Material UI with Google & Github Login
+Multi Lingual Chat - PolyLingo
 =====================================
 
 Live [demo](https://euphonious-rabanadas-f7e242.netlify.app/)
